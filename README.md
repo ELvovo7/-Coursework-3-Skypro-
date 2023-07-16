@@ -7,7 +7,7 @@
 
 ### [2. Основные требования](https://github.com/ELvovo7/-Coursework-3-Skypro-/blob/main/docs/Основные%20требования.md)
 
-### [3. Тестирование требований](https://github.com/ELvovo7/-1-2-Skypro-/blob/main/docs/Тестирование%20требований.md)
+### [3. Тестирование требований](https://github.com/ELvovo7/-Coursework-3-Skypro-/blob/main/docs/Тестирование%20требований.md)
 
 ### [4. Типы тестирования и тест документация](https://github.com/ELvovo7/-1-2-Skypro-/blob/main/docs/Типы%20тестирования%20и%20тест%20документация.md)
 
