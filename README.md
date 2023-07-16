@@ -5,7 +5,7 @@
 
 ### [1. Объект тестирования](https://github.com/ELvovo7/-Coursework-3-Skypro-/blob/main/docs/Объект%20тестирования.md)
 
-### [2. Основные требования](https://github.com/ELvovo7/-1-2-Skypro-/blob/main/docs/Основные%20требования.md)
+### [2. Основные требования](https://github.com/ELvovo7/-Coursework-3-Skypro-/blob/main/docs/Основные%20требования.md)
 
 ### [3. Тестирование требований](https://github.com/ELvovo7/-1-2-Skypro-/blob/main/docs/Тестирование%20требований.md)
 
