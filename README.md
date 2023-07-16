@@ -1,7 +1,7 @@
 # Тест приложения Skyeng для изучения английского языка
 ## Курсовая работа 3
 
-### [Тест план](https://github.com/ELvovo7/-1-2-Skypro-/blob/main/docs/Тест%20план.md)
+### [Тест план](https://github.com/ELvovo7/-Coursework-3-Skypro-/blob/main/docs/Тест%20план)
 
 ### [1. Объект тестирования](https://github.com/ELvovo7/-1-2-Skypro-/blob/main/docs/Объект%20тестирования.md)
 
