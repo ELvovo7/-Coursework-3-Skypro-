@@ -11,6 +11,6 @@
 
 ### [4. Тест документация](https://github.com/ELvovo7/-Coursework-3-Skypro-/blob/main/docs/Тестовая%20документация.md)
 
-### [5. Анализ выбора устройства]()
+### [5. Анализ выбора устройства](https://github.com/ELvovo7/-Coursework-3-Skypro-/blob/main/docs/Анализ%20выбора%20устройства.md)
 
 ### [7. Отчет о тестировании итогового проекта]()
